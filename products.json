@@ -1,0 +1,152 @@
+[
+  {
+  "id": 1,
+  "name": "Pizza",
+  "description": "Pizza Hawaiana con queso",
+  "cost": 40,
+  "price": 50,
+  "ingredients": 
+	  [
+      {
+      "name": "Piña",
+      "quantity": 1,
+      "units": "Unidades"
+      },
+      {
+      "name": "Peperonni",
+      "quantity": 5,
+      "units": "Docenas"
+      },
+      {
+      "name": "Queso",
+      "quantity": 2,
+      "units": "Unidades"
+      },
+      {
+      "name": "Pimientos",
+      "quantity": 1,
+      "units": "Docenas"
+      },
+      {
+      "name": "Hongos",
+      "quantity": 5,
+      "units": "Unidades"
+      },
+      {
+      "name": "Salsa de tomate",
+      "quantity": 1,
+      "units": "Unidades"
+      }
+    ]
+  },
+  {
+  "id": 2,
+  "name": "HotDog",
+  "description": "Hotdog de salchicha inglesa",
+  "cost": 10,
+  "price": 20,
+  "ingredients": 
+	  [
+      {
+      "name": "Salichica inglesa",
+      "quantity": 1,
+      "units": "Unidades"
+      }
+    ]
+  },
+  {
+  "id": 3,
+  "name": "Pastel",
+  "description": "Pastel de mora",
+  "cost": 30,
+  "price": 40,
+  "ingredients": 
+	  [
+      {
+      "name": "Mora",
+      "quantity": 2,
+      "units": "Docenas"
+      },
+      {
+      "name": "Pan",
+      "quantity": 1,
+      "units": "Docenas"
+      }
+    ]
+  },
+  {
+  "id": 4,
+  "name": "Taco de res",
+  "description": "Taco de res con salsa verde",
+  "cost": 2,
+  "price": 5,
+  "ingredients": 
+	  [
+      {
+      "name": "Carne de res",
+      "quantity": 1,
+      "units": "Docenas"
+      },
+      {
+      "name": "Salsa Verde",
+      "quantity": 1,
+      "units": "Unidades"
+      }
+    ]
+  },
+  {
+  "id": 5,
+  "name": "Helado de limón",
+  "description": "Helado de limón con chispas de chocolate",
+  "cost": 15,
+  "price": 25,
+  "ingredients": 
+	  [
+      {
+      "name": "Hielo",
+      "quantity": 1,
+      "units": "Docenas"
+      },
+      {
+      "name": "Chispa de chocolate",
+      "quantity": 3,
+      "units": "Docenas"
+      }
+    ]
+  },
+  {
+  "id": 6,
+  "name": "Pizza cuadrada",
+  "description": "Pizza 4 estaciones",
+  "cost": 200,
+  "price": 225,
+  "ingredients": 
+	  [
+      {
+      "name": "Carne",
+      "quantity": 1,
+      "units": "Docenas"
+      }
+    ]
+  },
+  {
+  "id": 6,
+  "name": "Spaghetti",
+  "description": "Spagetthi blanco con albondigas",
+  "cost": 100,
+  "price": 125,
+  "ingredients": 
+	  [
+      {
+      "name": "Spagetti",
+      "quantity": 1,
+      "units": "Docenas"
+      },
+      {
+      "name": "Albondiga",
+      "quantity": 2,
+      "units": "Docenas"
+      }
+    ]
+  }
+]

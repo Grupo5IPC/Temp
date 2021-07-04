@@ -1,0 +1,43 @@
+[
+    {
+        "id": 4, 
+        "client": 1,
+        "date": "2020-06-13",
+        "products": [
+            {
+                "name": "Pizza",
+                "price": 50
+            },
+            {
+                "name": "HotDog",
+                "price": 20
+            }
+        ]
+    },
+    {
+        "id": 5, 
+        "client": 1,
+        "date": "2018-09-09",
+        "products": [
+            {
+                "name": "HotDog",
+                "price": 20
+            },
+	    {
+                "name": "Pizza",
+                "price": 50
+            }
+        ]
+    },
+    {
+        "id": 3, 
+        "client": 1,
+        "date": "2015-04-07",
+        "products": [
+            {
+                "name": "HotDog",
+                "price": 20
+            }
+        ]
+    }
+]
