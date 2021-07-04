@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "Cliente": {
+      "Id": 1,
+      "Nombre": "Darwin Arevalo",
+      "Direccion": "Ciudad de Guatemala",
+      "Telefono": 42562365,
+      "Nit": "5283282-3"
+    },
+    "Fecha": "2020-06-13",
+    "Detalle": {
+      "idFactura": 1,
+      "Producto": {
+        "Id": 1,
+        "Nombre": "Pizza",
+        "Descripcion": "Pizza Hawaiana con queso",
+        "costo": 40.0,
+        "precio": 50.0,
+        "Ingredientes": {
+          "Nombre": "Piña",
+          "Cantidad": 1,
+          "Unidades": "Unidades"
+        }
+      }
+    }
+  }
+]
